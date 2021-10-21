@@ -27,7 +27,7 @@ Musillow - The song recommender app
 <!-- ABOUT THE PROJECT -->
 ## About The App
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/shireenchand/Musillow/master/app.png)
+<img src=https://raw.githubusercontent.com/shireenchand/Musillow/master/app.png>
 
 Musillow is a music recommender app that finds songs similar to your favourites. Simply enter the name of the song and see the magic happen. Not only does it provide the name of the songs, but also gives you direct links to play it on Spotify.
 
