@@ -12,8 +12,8 @@ data.drop('Unnamed: 0',axis=1,inplace=True)
 artists = []
 key = 0
 
-client_id = "031c4cbfe3014f87a965573acdc08d89"
-client_secret = "57c7e6134fb742ac8d45334118ea71ce"
+client_id = ""
+client_secret = ""
 spotify = SpotifyAPI(client_id, client_secret)
 
 st.sidebar.markdown("<h1 style='text-align: center; color: black;'>MUSILLOW</h1>", unsafe_allow_html=True)
