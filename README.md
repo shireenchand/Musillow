@@ -34,3 +34,8 @@ Musillow is a music recommender app that finds songs similar to your favourites.
 Mobile friendly version will be out soon!!
 
 Check out the app now -----> https://musillow.herokuapp.com
+
+<!-- ABOUT THE PROJECT -->
+## About The Files in this Repo
+
+Many of the files have been removed due to privacy issues. Currently the files here are only related to the deployment part. If you would like to see the actual code and working, drop me a mail ---> shireen.chand@yahoo.com
