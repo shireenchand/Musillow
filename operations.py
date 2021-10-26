@@ -12,8 +12,8 @@ class Operation:
 
 	def get_features(self,id):
 		features = []
-		client_id = "419dafa858c443b1b449645ecbcd53fb"
-		client_secret = "61056d29dc6647c9bfb3b961456bba86"
+		client_id = none
+		client_secret = none
 		spotify = SpotifyAPI(client_id, client_secret)
 		headers = spotify.get_resource_header()
 		features_url = f"https://api.spotify.com/v1/audio-features/{id}"
