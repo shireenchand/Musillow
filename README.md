@@ -13,7 +13,7 @@ Musillow - The song recommender app
     <a href="https://musillow.herokuapp.com"><strong>Check it out now!!!</strong></a>
     <br />
     <br />
-    <a href="https://musillow.herokuapp.come">View Demo</a>
+    <a href="https://musillow.herokuapp.com">View Demo</a>
     ·
     <a href="https://github.com/shireenchand/Musillow/issues">Report Bug</a>
     ·
